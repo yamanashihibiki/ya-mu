@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    background-color: skyblue;
+}
+
+header {
+    position: relative;
+    padding-left: 100px;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    right: 100px;
+}
+.lists {
+    display: flex;
+    color:black;
+    list-style-type: none;
+    text-align: center;
+}
+.list {
+    color: black;
+    padding-right: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.img {
+    width: 200px;
+    padding-left: 80px;
+    padding-top: 100px;
+} 
+
+.img2 {
+    width: 700px;
+    padding-left: 80px;
+    padding-top: 100px;
+}
+
+.sukinaanimes {
+    padding-left: 100px;
+    font-size: 20px;
+    padding-top: 200px;
+}
+.やーむs {
+    padding-left: 560px;
+    font-size: 20px;
+}
+.img1 {
+    width: 500px;
+}
+.osies {
+    padding-left: 80px;
+    font-size: 20px;
+}
+.footer {
+    padding-top: 1000px;
+}
